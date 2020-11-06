@@ -1,0 +1,34 @@
+/* CSS which you need for blurred box */
+body{
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color:white;
+  background-image:url(https://images.unsplash.com/reserve/uZYSV4nuQeyq64azfVIn_15130980706_64134efc6e_o.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=747&q=80);
+  /* Thanks to Amador Loureiro for background image */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button {
+  font-size: 18px;
+  font-weight: 500;
+  padding: 1em;
+  width: auto;
+  background-color: black; 
+  border: 4px solid #f22f46;
+  border-radius: 50px;
+  transition: all 0.4s ease 0s;
+  cursor: pointer;
+  color: #f22f46;
+  margin-bottom: 2em;
+}
