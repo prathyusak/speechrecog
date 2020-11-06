@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/speechrecog/static/css/main.d3537154.chunk.css",
+    "main.js": "/speechrecog/static/js/main.1ab97239.chunk.js",
+    "main.js.map": "/speechrecog/static/js/main.1ab97239.chunk.js.map",
+    "runtime-main.js": "/speechrecog/static/js/runtime-main.81a5fb85.js",
+    "runtime-main.js.map": "/speechrecog/static/js/runtime-main.81a5fb85.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/speechrecog/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.c7069815.chunk.js": "/speechrecog/static/js/2.c7069815.chunk.js",
+    "static/js/2.c7069815.chunk.js.map": "/speechrecog/static/js/2.c7069815.chunk.js.map",
+    "index.html": "/speechrecog/index.html",
+    "precache-manifest.eafabc30544e50d98798c64d0ea657bf.js": "/speechrecog/precache-manifest.eafabc30544e50d98798c64d0ea657bf.js",
+    "service-worker.js": "/speechrecog/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/speechrecog/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.d3537154.chunk.css.map": "/speechrecog/static/css/main.d3537154.chunk.css.map",
+    "static/js/2.c7069815.chunk.js.LICENSE.txt": "/speechrecog/static/js/2.c7069815.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81a5fb85.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.c7069815.chunk.js",
+    "static/css/main.d3537154.chunk.css",
+    "static/js/main.1ab97239.chunk.js"
+  ]
+}
